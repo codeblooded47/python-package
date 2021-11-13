@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/mypackage/__init__.py
+src/mypackage/functions.py
+src/mypackage_codeblooded47.egg-info/PKG-INFO
+src/mypackage_codeblooded47.egg-info/SOURCES.txt
+src/mypackage_codeblooded47.egg-info/dependency_links.txt
+src/mypackage_codeblooded47.egg-info/top_level.txt
