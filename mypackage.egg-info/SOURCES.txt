@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+mypackage/__init__.py
+mypackage/functions.py
+mypackage.egg-info/PKG-INFO
+mypackage.egg-info/SOURCES.txt
+mypackage.egg-info/dependency_links.txt
+mypackage.egg-info/not-zip-safe
+mypackage.egg-info/top_level.txt
